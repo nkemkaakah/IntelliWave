@@ -1,5 +1,16 @@
 # Intelliwave
 
-Intelliwave is an AI-driven conversational interface designed as an enhanced adaptation of existing AI services like ChatGPT. The project focuses on delivering an intuitive and responsive user experience, powered by React for the frontend. Intelliwave aims to provide seamless interaction through a modern, clean UI that simplifies complex AI interactions for everyday users.
+Intelliwave is a frontend project designed as a conceptual user interface for an AI-driven conversational tool. The goal is to showcase a modern, responsive design using React and CSS, providing a clean and intuitive user experience for hypothetical AI interactions. Although this version doesn't include backend functionality or real AI integration, it serves as a demonstration of frontend skills and design principles.
 
-#### I made this website as a solo project of my own using React and Tailwind CSS.
+
+## Features
+
+- **Responsive Design**: Ensures a smooth experience across various screen sizes and devices.
+- **Modern UI**: A clean, intuitive interface designed with user experience in mind.
+- **Customizable Themes**: Placeholder elements for theme switching, showcasing potential design flexibility.
+- **Moving CSS with Scroll Parallax**: Implements engaging scroll-based parallax effects to enhance visual dynamics.
+
+
+
+
+####Here are some screenshots below

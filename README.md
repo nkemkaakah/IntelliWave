@@ -11,21 +11,36 @@ Intelliwave is a frontend project designed as a conceptual user interface for an
 
 ####Here are some screenshots below:
 
-###Hero Section and Navbar:
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/hero1.png" width = "320"/>
+### Hero Section and Navbar:
 
-###Feautures and Services Section:
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/section2.png" width = "320"/>
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/section3.png" width = "320"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/hero1.png" width="45%" style="margin: 5px;"/>
+</div>
 
-###BentoBox section:
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/bentobox.png" width = "320"/>
+### Features and Services Section:
 
-###Pricing and RoadMap Section:
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/pricing.png" width = "320"/>
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/working.png" width = "320"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/section2.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/section3.png" width="45%" style="margin: 5px;"/>
+</div>
 
+### BentoBox Section:
 
-###Mobile Responsivesness and View:
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/mobile.png" width = "320"/>
-<img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/hamburer.png" width = "320"/>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/bentobox.png" width="45%" style="margin: 5px;"/>
+</div>
+
+### Pricing and RoadMap Section:
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/pricing.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/working.png" width="45%" style="margin: 5px;"/>
+</div>
+
+### Mobile Responsiveness and View:
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/mobile.png" width="45%" style="margin: 5px;"/>
+  <img src="https://github.com/nkemkaakah/IntelliWave/blob/main/src/assets/assets/screenshots/hamburger.png" width="45%" style="margin: 5px;"/>
+</div>
+

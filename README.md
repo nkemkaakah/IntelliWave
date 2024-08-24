@@ -1,8 +1,5 @@
-# React + Vite
+# Intelliwave
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Intelliwave is an AI-driven conversational interface designed as an enhanced adaptation of existing AI services like ChatGPT. The project focuses on delivering an intuitive and responsive user experience, powered by React for the frontend. Intelliwave aims to provide seamless interaction through a modern, clean UI that simplifies complex AI interactions for everyday users.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### I made this website as a solo project of my own using React and Tailwind CSS.
